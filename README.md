@@ -1,1 +1,3 @@
-# img-rename
+# Rename imgs
+## npm i 
+
